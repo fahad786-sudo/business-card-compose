@@ -30,6 +30,9 @@ This app displays a developer profile with image, name, role, and contact inform
 ## 📱 UI Preview
 
 > Business card layout with centered profile image and contact details.
+> ## 📱 UI Preview
+
+![Business Card Screenshot](screenshot.png)
 
 ---
 
